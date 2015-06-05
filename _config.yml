@@ -29,6 +29,8 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   about: "about.html"
+  publications: "publications.html"
+  projects: "projects.html"
   
 # --- Footer options --- #
 
