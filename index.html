@@ -1,15 +1,14 @@
 ---
 layout: page
-title: in between worlds
-subtitle: github blog by Martin Trapp
+title: Martin Trapp
+subtitle: in between worlds
 ---
 
-<div class="main-explain-area jumbotron">
-  <p>This website is my little playground blog on research in computer science with focus on Machine Learning, Algorithms, Computer Vision and Natural Language Processing.</p>
-  <p>If you find any of my posts interesting, I would be happy if you share your ideas and opinions with me.</p>
-</div>
-
-<div class="posts-list">
+    <p>I'm a researcher in machine learning, applied cognitive science, natural language processing and computer vision at the <a href="http://ofai.at">Austrian Research Institute for Artificial Intelligence</a> in Vienna. Previously, I have been working as a researcher in medical and biological image processing at the <a href="http://vrvis.at">VRVis Research Center for Virtual Reality and Visualisation</a>. My current focus lies on Bayesian nonparametrics, traceable Bayesian networks, clustering, concept learning, dynamic clustering and applications in computer vision and natural language processing. 
+    </p>
+    
+    
+    <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
