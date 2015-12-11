@@ -4,9 +4,9 @@ title:
 subtitle: 
 ---
 
-## projects
+## Projects
 
-I'm currently working on the following projects:
+I'm currently working on the following FWF founded projects:
 
-* [charming](http://www.ofai.at/research/cogsocrob/charming.wrk.html)
-* [lida](http://www.ofai.at/research/cogsocrob/lida.html)
+* [Character Mining and Generation](http://www.ofai.at/research/cogsocrob/charming.wrk.html)
+* [Spatial Memory and Navigation Ability in a Physically Embodied Cognitive Architecture](http://www.ofai.at/research/cogsocrob/lida.html)
