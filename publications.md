@@ -6,13 +6,15 @@ subtitle:
 
 ## Publications
 
+### 2016
+
+**Trapp M.**, Schulze F., Novikov A. A., Tirian L., Dickson B. J. and Bühler K.: Adaptive and Background-Aware GAL4 Expression Enhancement of Co-registered Confocal Microscopy Images, Neuroinformatics, (pp. 1-13), 2016. [pdf](http://dx.doi.org/10.1007/s12021-015-9289-y)
+
 ### 2015
 
 **Trapp M.**:
 BNP.jl: Bayesian nonparametrics in Julia.
 Bayesian Nonparametrics: The Next Generation Workshop at the 29th Annual Conference on Neural Information Processing Systems (NIPS), 2015. [pdf](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxuaXBzYm5wMjAxNXxneDo3ZDM0ZmNjNjgwNzhlNTA2) | [code](https://github.com/trappmartin/BNP.jl)
-
-**Trapp M.**, Schulze F., Novikov A. A., Tirian L., Dickson B. J. and Bühler K.: Adaptive and Background-Aware GAL4 Expression Enhancement of Co-registered Confocal Microscopy Images, Neuroinformatics, in press.
 
 ### 2013
 
